@@ -23,11 +23,11 @@
   }
 
   .client_section .carousel-control-prev {
-    left: 15%;
+    left: 20%;
   }
 
   .client_section .carousel-control-next {
-    right: 15%;
+    right: 20%;
   }
 
 }
